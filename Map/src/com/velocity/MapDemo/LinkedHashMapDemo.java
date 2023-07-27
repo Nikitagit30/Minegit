@@ -17,6 +17,8 @@ public class LinkedHashMapDemo {
 		maplist.put(15, null);
 		maplist.put(14, "Rani");
 		
+		maplist.put(18, "Virat");
+		
 		//System.out.println(maplist);
 		
 		Set<Integer> mp=maplist.keySet();
